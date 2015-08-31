@@ -19,9 +19,9 @@ The variables saved in the **.mat** file are *spsizes* and *ratings*:
 - ratings is a K * N matrix, where each row represents the ratings of one experiments. Note that N must be equal to the sum of m and n, and its first m elements is the ratings corresponding to X, while the last n corresonding to Y.
 
 
-![plot of chunk unnamed-chunk-4](/images/delong/image_1.png)
+![plot of chunk DeLongUI-image-1](/images/delong/image_1.png)
  
-![plot of chunk unnamed-chunk-4](/images/delong/image_2.png) 
+![plot of chunk DeLongUI-image-1](/images/delong/image_2.png) 
 
 
 ### Citation Request
