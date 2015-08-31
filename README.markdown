@@ -15,7 +15,7 @@ If the color of the text in the push button is red, that means the results shown
 
 The variables saved in the **.mat** file are *spsizes* and *ratings*:
 
-- *spsizes* is a *2 * 1* vector, which represent the sizes of two samples, namely, *X* and *Y*, and can be denoted by *m* and *n*, respectively.
+- *spsizes* is a *2 * 1* vector, which represent the sizes of two samples, namely, *X* and *Y*. For ease of later reference, let *m*, *n* denote these two values.
 - *ratings* is a *K * N* matrix, where each row represents the ratings of one experiments. Note that *N* must be equal to the sum of *m* and *n*, and its first *m* elements is the ratings corresponding to *X*, while the last *n* corresonding to *Y*.
 
 
