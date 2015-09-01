@@ -28,7 +28,7 @@ The variables saved in the **.mat** file are *spsizes* and *ratings*:
 
 Anyway, I hope that this tool could be helpful for researchers who using AUC in their work.
 
-If you publish material based on these codes, then, please refer to our paper:
+If you publish material based on these codes, then, please refer to [our paper](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&tp=&arnumber=6851192):
 
     X. Sun, W. Xu, Fast implementation of DeLong's algorithm for comparing the areas under correlated receiver operating characteristic curves, IEEE Signal Processing Letters 21 (11) (2014) 1389-1393.
 
