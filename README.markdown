@@ -7,7 +7,7 @@ categories: update
 
 ### Introduction
 
-This is a ROC analysis tool based on DeLong's method, implemented by Xu Sun.
+This is a ROC analysis tool based on DeLong's method, implemented by [Xu Sun](http://pamixsun.github.io/).
 
 To analysis your own data, you should firstly move your experiment results, saved as a **.mat** file in certain format, into the same dirrectory of the source codes of this tool. Then run the **DeLongUserInterface** function, and you will see you file is listed in the "Selected File" pop-up menu. Next, select your file and click the "Update Data" button below, several ROC curves will then be drawn according to you data. Now chose the two ratings that you would like to analysis in "Rating 1" and "Rating 2" and push the "Analysis" button, you will finally gain the statistical results. Note that all these results are calculated by DeLong's formulas with the fast implementation given by Sun and Xu.
 
