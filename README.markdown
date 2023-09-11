@@ -16,7 +16,7 @@ If the text color of a push button is red, it indicates that the results shown i
 The variables saved in the **.mat** file are *spsizes* and *ratings*:
 
 - *spsizes* is a *2 x 1* vector representing the sizes of the two samples X and Y. For ease of reference, let m and n denote these two values.
-- *ratings* is a *K x N* matrix, , where each row represents the ratings from one experiment. Note that N must equal the sum of m and n. The first *m* elements correspond to ratings for *X*, while the last *n* elements correspond to ratings for *Y*. 
+- *ratings* is a *K x N* matrix, where each row represents the ratings from one experiment. Note that N must equal the sum of m and n. The first *m* elements correspond to ratings for *X*, while the last *n* elements correspond to ratings for *Y*. 
 
 
 ![plot of chunk DeLongUI-image-1](images/delong/image_1.png)
